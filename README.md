@@ -8,6 +8,7 @@ The input image:
 
 with 10 principal components:
 
+![screenshot from 2017-06-03 22-09-09](https://cloud.githubusercontent.com/assets/24511419/26755177/e91a7646-48a9-11e7-8fbe-f2c67579de05.png)
 
 20 PC:
 

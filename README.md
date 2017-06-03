@@ -6,3 +6,12 @@ The input image:
 
 ![dhoni](https://cloud.githubusercontent.com/assets/24511419/26755123/c98b4234-48a8-11e7-93ee-bf101afa7e33.jpg)
 
+with 10 principal components:
+
+
+20 PC:
+
+50 PC:
+
+100 PC:
+

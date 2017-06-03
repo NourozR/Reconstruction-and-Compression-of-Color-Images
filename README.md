@@ -10,9 +10,15 @@ with 10 principal components:
 
 ![screenshot from 2017-06-03 22-09-09](https://cloud.githubusercontent.com/assets/24511419/26755177/e91a7646-48a9-11e7-8fbe-f2c67579de05.png)
 
-20 PC:
+20 Principal Components:
 
-50 PC:
+![screenshot from 2017-06-03 22-09-53](https://cloud.githubusercontent.com/assets/24511419/26755176/e918ebaa-48a9-11e7-837f-0b856f2c4d1b.png)
 
-100 PC:
+50 Principal Components:
+
+![screenshot from 2017-06-03 22-10-33](https://cloud.githubusercontent.com/assets/24511419/26755178/e9256600-48a9-11e7-9193-973a34f15162.png)
+
+100 Principal Components:
+
+![screenshot from 2017-06-03 22-11-27](https://cloud.githubusercontent.com/assets/24511419/26755179/e9271572-48a9-11e7-93e7-448a592b573c.png)
 

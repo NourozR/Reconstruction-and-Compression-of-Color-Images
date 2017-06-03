@@ -22,3 +22,6 @@ with 10 principal components:
 
 ![screenshot from 2017-06-03 22-11-27](https://cloud.githubusercontent.com/assets/24511419/26755179/e9271572-48a9-11e7-93e7-448a592b573c.png)
 
+Using first 100 PCs, a quite good image has been recontructed. Remember our input image had 600 columns, so we had 600 PCs in our eigendecomposition step. So, clearly a great dimension reduction is possible using PCA analysis on any image. 
+
+I have added two .py file here. One is main fuction to do it and another is my practice file which I did fo myself but that's too helpful if anyone wants to understand each steps more clearly. 

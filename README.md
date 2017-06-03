@@ -24,6 +24,6 @@ with 10 principal components:
 
 Using first 100 PCs, a quite good image has been recontructed. Remember our input image had 600 columns, so we had 600 PCs in our eigendecomposition step. So, clearly a great dimension reduction is possible using PCA analysis on any image. 
 
-I have added two .py files here. One is main fuction to do it and another is my practice file which I did fo myself but that's too helpful if anyone wants to understand each steps more clearly. 
+I have added two .py files here. One is main fuction to do it and another is my practice file which I did for myself from scratch - but that's too helpful if anyone wants to understand each steps more clearly. 
 
 To run the code on ubuntu, save input file "dhoni.jpg" and "image_reconstruction_using_PCA.py" in same directory and run the .py file. However, install all required packages before running the code. You can use this code on any image, with a bit of change, for similar purpose. 

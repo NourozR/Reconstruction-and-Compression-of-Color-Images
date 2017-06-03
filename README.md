@@ -1,6 +1,6 @@
 # Reconstruction-of-Color-Image-Using-Principal-Component-Analysis-PCA-
 
-While reviewing linear algebra, I decided to work on some funny projects that will help me to understand the concepts more deeply. In this repo, I have reconstructed a [600,600,3] RGB image using PCA. To undestand this project, one may need to have solid knowledge of eigendecomposition and covariance matrix. I have another repository where i have included these concepts with python codes, basically using Numpy. feel free to have a look there!
+While reviewing linear algebra, I decided to work on some funny projects that will help me to understand the concepts more deeply. In this repo, I have reconstructed a [600,600,3] RGB image using PCA. To undestand this project, one may need to have solid knowledge of eigendecomposition and covariance matrix. I have another repository where i have included these concepts with python codes, basically using Numpy. Feel free to have a look there!
 
 The input image:
 
@@ -24,4 +24,4 @@ with 10 principal components:
 
 Using first 100 PCs, a quite good image has been recontructed. Remember our input image had 600 columns, so we had 600 PCs in our eigendecomposition step. So, clearly a great dimension reduction is possible using PCA analysis on any image. 
 
-I have added two .py file here. One is main fuction to do it and another is my practice file which I did fo myself but that's too helpful if anyone wants to understand each steps more clearly. 
+I have added two .py files here. One is main fuction to do it and another is my practice file which I did fo myself but that's too helpful if anyone wants to understand each steps more clearly. 

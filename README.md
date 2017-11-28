@@ -27,3 +27,5 @@ Using first 100 PCs, a quite good image has been recontructed. Remember our inpu
 I have added two .py files here. One is main fuction to do it and another is my practice file which I did for myself from scratch - but that's too helpful if anyone wants to understand each steps more clearly. 
 
 To run the code on ubuntu, save input file "dhoni.jpg" and "image_reconstruction_using_PCA.py" in same directory and run the .py file. However, install all required packages before running the code. You can use this code on any image, with a bit of change, for similar purpose. 
+
+Update: If you are working with rectangular image shapes, just change: axis = None from axis = 0/1. I could change the code and make more generalized but not doing that right now.
